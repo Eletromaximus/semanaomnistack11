@@ -24,7 +24,7 @@ Tipos de Parâmetros
  * Query Builder: table('users').select('*').where() em javascript
  */
 
-
-app.listen(3333)
+module.exports = app;
+//app.listen(3333)
 
 
