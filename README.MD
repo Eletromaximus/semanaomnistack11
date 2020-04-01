@@ -3,4 +3,4 @@ Esse projeto surgiu como produto da semana Omnstack da RocketSeat. O projeto é 
 As tecnologias ferramentas utilizadas no Backend são: Express, Cors, Jest, Knexfile e Crypto.
 No FrontEnd foram usadas as ferramentas: React Router Dom, React-Icons e Axios.
 
-[](https://github.com/Eletromaximus/semanaomnistack11/blob/master/x1.png)
+[](x1.png)
